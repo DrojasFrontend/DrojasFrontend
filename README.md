@@ -6,8 +6,8 @@ const githubAbout = {
     location: "Colombia - Atlantico",
   },
   hardSkills: {
-    languages: ["Javascript", "HTML", "CSS", "PHP"],
-    frameworks: ["NextJs", "Bootstrap", "Tailwind CSS", "SASS/LESS", "GULP", "BEM naming"],
+    languages: ["Javascript", "HTML", "CSS", "PHP", "NextJs"],
+    frameworks: ["Foundation Zurd", "Bootstrap", "Tailwind CSS", "SASS/LESS", "GULP", "BEM naming"],
     software: ["Figma", "VS Code"],
     CMS: ["WordPress", "Shopify"]
   },
