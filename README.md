@@ -1,3 +1,4 @@
+```javascript
 const githubAbout = {
   profile: {
     name: "Daniel Rojas Astood",
@@ -5,7 +6,7 @@ const githubAbout = {
     location: "Colombia - Atlantico",
   },
   hardSkills: {
-    languages: ["Javascript",  "HTML", "CSS", "PHP"],
+    languages: ["Javascript", "HTML", "CSS", "PHP"],
     frameworks: ["NextJs", "Bootstrap", "Tailwind CSS", "SASS/LESS", "GULP", "BEM naming"],
     software: ["Figma", "VS Code"],
     CMS: ["WordPress", "Shopify"]
