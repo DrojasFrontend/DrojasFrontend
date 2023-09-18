@@ -1,3 +1,10 @@
+# Daniel Rojas Astood - Front-end Developer
+
+[![GitHub followers](https://img.shields.io/github/followers/danielrojasastood?style=social)](https://github.com/danielrojasastood)
+[![Twitter Follow](https://img.shields.io/twitter/follow/danielrojasastood?style=social)](https://twitter.com/danielrojasastood)
+
+## About Me
+
 ```javascript
 const githubAbout = {
   profile: {
